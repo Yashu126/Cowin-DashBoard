@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.chat-con {
+  background-color: #1c1c2b;
+  padding: 20px;
+  border-radius: 15px;
+  margin-bottom: 15px;
+}
+
+.chat-heading {
+  color: #cbd5e1;
+}
